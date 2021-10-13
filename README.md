@@ -13,7 +13,7 @@
   
 
 <div align="center">
-<img src="https://i.gifer.com/origin/61/61aa13ca92c98ca6d37d238fc6468b7c.gif" align="center" height="" width="400" />
+<!-- <img src="https://i.gifer.com/origin/61/61aa13ca92c98ca6d37d238fc6468b7c.gif" align="center" height="" width="400" /> -->
 </div>  
   
 
