@@ -18,8 +18,8 @@
   
 
 - ⚡Duas curiosidades sobre mim: 
-Crio diálogos na minha mente com várias personalidades e alternativas de respostas e beijo doguinhos 🤗 🐶  
-  
+-> Crio diálogos na minha mente, com várias alternativas de respostas;
+-> Não costumo entender piadas de primeira  :laughing:   
 
 <br/>  
 
