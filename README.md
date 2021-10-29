@@ -17,7 +17,7 @@
 </div>  
   
 
-- ⚡Uma curiosidade sobre mim, ou melhor... duas: 
+- ⚡Duas curiosidades sobre mim: 
 Crio diálogos comigo mesma na minha mente com várias personalidades e alternativas de respostas e beijo doguinhos 🤗 🐶  
   
 
@@ -63,7 +63,6 @@ Crio diálogos comigo mesma na minha mente com várias personalidades e alternat
 <a href="https://github.com/Thaina-Abrantes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
-  <a href="https://www.linkedin.com/in/thain%C3%A1-abrantes-5b9b59224/" target="_blank"></a>
 </div>  
   
 
