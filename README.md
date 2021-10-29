@@ -60,6 +60,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://www.linkedin.com/in/thain%C3%A1-abrantes-5b9b59224/" target="_blank">
+<img src=https://user-images.githubusercontent.com/85585154/139488670-78f7bd41-d3d0-4085-989f-6c91ad42c0c8.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 <a href="https://github.com/Thaina-Abrantes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
