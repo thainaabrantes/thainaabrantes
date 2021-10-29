@@ -17,7 +17,7 @@
 </div>  
   
 
-- ⚡ Duas curiosidades sobre mim: 
+- ⚡ Duas curiosidades sobre mim: <br/>
 :small_orange_diamond: Crio diálogos na minha mente, com várias alternativas de respostas; <br/>
 :small_blue_diamond: Não costumo entender piadas de primeira  :laughing:   
 
