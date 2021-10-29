@@ -18,7 +18,7 @@
   
 
 - ⚡Duas curiosidades sobre mim: 
-Crio diálogos comigo mesma na minha mente com várias personalidades e alternativas de respostas e beijo doguinhos 🤗 🐶  
+Crio diálogos na minha mente com várias personalidades e alternativas de respostas e beijo doguinhos 🤗 🐶  
   
 
 <br/>  
