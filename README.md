@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Sou Thainá, desenvolvedora Full Stack 👩🏾‍💻, mineirinha do interior, apaixonada em pão de 🧀 e cocada 🥥 ❣️</div>  
+### <div align="center">Sou Thainá, desenvolvedora Full Stack 👩🏾‍💻, mineirinha, apaixonada em pão de 🧀 e cocada 🥥 ❣️</div>  
   
 
 -  :computer:  Atualmente estudo Desenvolvimento Web pela Cubos Academy.  
