@@ -6,7 +6,7 @@
 ### <div align="center">Sou Thainá, desenvolvedora Full Stack 👩🏾‍💻, mineirinha do interior, apaixonada em pão de 🧀 e cocada 🥥 ❣️</div>  
   
 
--  Atualmente estudo Desenvolvimento Web pela Cubos Academy.  
+-  :computer:  Atualmente estudo Desenvolvimento Web pela Cubos Academy.  
   
 
 - ❓ Me pergunte sobre Modern Family e eu te responderei tudo! 🧞  
@@ -17,9 +17,9 @@
 </div>  
   
 
-- ⚡Duas curiosidades sobre mim: 
--> Crio diálogos na minha mente, com várias alternativas de respostas;
--> Não costumo entender piadas de primeira  :laughing:   
+- ⚡ Duas curiosidades sobre mim: 
+:small_orange_diamond: Crio diálogos na minha mente, com várias alternativas de respostas; <br/>
+:small_blue_diamond: Não costumo entender piadas de primeira  :laughing:   
 
 <br/>  
 
