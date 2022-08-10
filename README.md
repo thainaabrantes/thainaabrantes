@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Sou Thainá, desenvolvedora Full Stack 👩🏾‍💻, mineirinha, apaixonada em pão de 🧀 e cocada 🥥 ❣️</div>  
+### <div align="center">Sou Thainá, desenvolvedora Full Stack 👩🏾‍💻, mineira, apaixonada em pão de 🧀 e cocada 🥥 ❣️</div>  
   
 
--  :computer:  Atualmente estudo Desenvolvimento Web pela Cubos Academy.  
+-  :computer:  Atualmente estudo Desenvolvimento Web pela Trybe.  
   
 
 - ❓ Me pergunte sobre Modern Family e eu te responderei tudo! 🧞  
